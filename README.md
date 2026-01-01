@@ -56,3 +56,8 @@ CNN 기반 컴퓨터 비전 아키텍처와 주요 비전 작업에 대한 학�
 - [11. Vision Transformer (ViT)](computer-vision/11-vit.md)
   - 패치 임베딩, 위치 임베딩, CLS 토큰
   - Transformer 인코더 블록 구성
+
+### Experiments
+
+- [LeNet-5 MNIST](experiments/lenet5_mnist.ipynb) - LeNet-5 구현 및 MNIST 분류
+- [VGG16 CIFAR-10](experiments/vgg16_cifar10.ipynb) - VGG16 구현 및 CIFAR-10 분류
